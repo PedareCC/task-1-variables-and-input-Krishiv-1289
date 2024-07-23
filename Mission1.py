@@ -11,12 +11,12 @@ print("Hello earthling scientist!")
 
 
 lead_astronaut = input("Enter the lead astronaut's name: ")
-mission_name = "a mission cuz why not?"
-launch_year = 4045
+mission_name = "Mars Rover Mission"
+launch_year = 2035
 
 #Step 3: Fill in the variable names between the strings provided to create a mission brief. Make sure to use a print statement to view the mission brief.
 
-mission_brief = print(f"{mission_name} will commence in {launch_year} lead by {lead_astronaut}")
+mission_brief = print(f"{mission_name} will commence in {launch_year} lead by {lead_astronaut}!")
 
 
 #Step 4: The project gets delayed by 3 years because *beaucracy*. Go back to step 2 and add 3 to the launch year. Run the code to check if it works.
